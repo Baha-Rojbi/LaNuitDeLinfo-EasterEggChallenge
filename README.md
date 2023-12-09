@@ -5,7 +5,7 @@
 
 ## Concept
 
-Notre Easter Egg est conçu pour sensibiliser l'utilisateur à son impact sur la nature. Il allie interactivité et synergie avec le thème principal de notre site : la nature et l'effet de serre. L'utilisateur découvre un message caché en interaction directe avec l'image, engendrant un sentiment de contribution personnelle.
+Mon Easter Egg est conçu pour sensibiliser l'utilisateur à son impact sur la nature. Il allie interactivité et synergie avec le thème principal de notre site : la nature et l'effet de serre. L'utilisateur découvre un message caché en interaction directe avec l'image, engendrant un sentiment de contribution personnelle.
 
 ## Fonctionnalité
 
