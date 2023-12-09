@@ -28,7 +28,7 @@ En parallèle, des chiffres remplacent certaines lettres dans le texte de notre 
 ## Instructions de Développement
 
 Le code est structuré de manière modulaire pour faciliter la compréhension et les futures modifications :
-- `/js/interaction.js` contient toute la logique d'interaction avec l'image.
+- `/js/script.js` contient toute la logique d'interaction avec l'image.
 - `/css/style.css` gère les styles de l'image initiale en niveaux de gris et des effets de transition.
 - La structure HTML de l'image et des éléments interactifs se trouve dans la section body du fichier `index.html`.
 
