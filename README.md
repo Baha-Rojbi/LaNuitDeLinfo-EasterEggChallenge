@@ -40,3 +40,8 @@ Le code est structuré de manière modulaire pour faciliter la compréhension et
 Nous espérons que ce petit geste ludique encouragera nos utilisateurs à réfléchir à l'impact de leurs actions et à penser globalement à leur responsabilité envers la préservation de notre planète.
 
 ---
+#
+
+2 nd place winner
+Link = https://www.nuitdelinfo.com/inscription/defis/liste?page=1
+![image](https://github.com/Baha-Rojbi/LaNuitDeLinfo-EasterEggChallenge/assets/101024667/a818de7b-d7c5-48df-9dcd-26f451a2f256)
